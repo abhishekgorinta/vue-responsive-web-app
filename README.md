@@ -9,6 +9,7 @@ https://gabhishek-vuewebapp.netlify.app/
 ## 📸 Screenshots
 ![wp1](src/assets/wp1.png)
 ![wp2](src/assets/wp2.png)
+![wp3](src/assets/wp3.png)
 
 ## 📋 Table of Contents
 
