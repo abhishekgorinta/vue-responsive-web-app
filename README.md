@@ -7,8 +7,8 @@ A modern, responsive website built with Vue 3 and Vite. This project showcases a
 https://gabhishek-vuewebapp.netlify.app/
 ```
 ## 📸 Screenshots
-![wp1](src/asserts/wp1.png)
-![wp2](src/asserts/wp2.png)
+![wp1](src/assets/wp1.png)
+![wp2](src/assets/wp2.png)
 
 ## 📋 Table of Contents
 
