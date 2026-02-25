@@ -2,6 +2,14 @@
 
 A modern, responsive website built with Vue 3 and Vite. This project showcases a professional web application with a navigation bar, image carousel, user directory, and contact form.
 
+## View live
+```
+https://gabhishek-vuewebapp.netlify.app/
+```
+## 📸 Screenshots
+![wp1](src/asserts/wp1.png)
+![wp2](src/asserts/wp2.png)
+
 ## 📋 Table of Contents
 
 - [Features](#features)
